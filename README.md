@@ -7,6 +7,7 @@
 +  Javascript  
 +  Jquery  
 +  Wikipedia API  
++  Bootstrap  
 
 ###Author
 +  Melissa Kepler a.k.a Missarachnid  
