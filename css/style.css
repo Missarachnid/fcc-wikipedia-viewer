@@ -1,0 +1,58 @@
+body {
+  font-family: 'Lora', serif;
+  text-align: center;
+  font-size: 1.6em;
+  background-color: #f2f2f2;
+  color: black;
+  display: block;
+}
+
+.container-fluid {
+  width: 100%;
+  padding: 0;
+}
+
+#communication {
+  margin-top: 10px;
+  height: 1.75em;
+}
+
+.navbar {
+  box-shadow: 0 1px 1px 1px gray;
+}
+
+.search {
+  padding: 10px;
+}
+
+#searchBox {
+  border: 1px solid black;
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+  height: 3em;
+  box-shadow: 1px 1px 1px 1px gray;
+}
+
+#searchButton {
+  margin: 10px;
+  border: 1px solid black;
+  color: white;
+  box-shadow: 1px 1px 1px 1px gray;
+}
+
+.random {
+  border: 1px solid black;
+  margin: 10px;
+  color: white;
+  box-shadow: 1px 1px 1px 1px gray;
+}
+
+#wikiContent {
+  text-align: left;
+}
+
+#wikiContent li {
+  padding: 10px;
+  list-style-type: none;
+}

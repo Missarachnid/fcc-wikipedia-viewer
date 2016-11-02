@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Wikipedia Viewer </title>
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700' rel='stylesheet' type='text/css'>
+  
+  <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  <body>
+  <div class="container-fluid">
+    <nav class="navbar navbar-default">
+      <h1>Wikipedia Viewer</h1>
+    </nav>
+  </div>
+  <div class="container">
+    <div class="main">
+      <div id="content">
+        <div class="search">
+          <div>
+            <div id="communication">
+            </div>
+            <input type="text" id="searchBox" name="searchField" size="35" required>
+            <button id="searchButton" class="btn btn-primary btn-lg">&#128269;
+            </button>
+            <span>or</span>
+            <a href="http://en.wikipedia.org/wiki/Special:Random" target="_blank"><button class="btn btn-primary btn-lg random" >Random?</button></a>
+          </div>
+        </div>
+        <div>
+          <ul id="wikiContent">
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+
+      <script src="js/index.js"></script>
+
+</body>
+</html>
