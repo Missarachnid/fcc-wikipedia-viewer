@@ -25,7 +25,7 @@ body {
   padding: 10px;
 }
 
-input:active, input:focus {
+input:active, input:focus, button:active, button:focus {
   outline: none;
 }
 
