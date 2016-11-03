@@ -31,7 +31,7 @@ body {
   border-radius: 5px;
   text-align: center;
   height: 3em;
-  box-shadow: 1px 1px 1px 0 gray;
+  box-shadow: inset 1px 1px 1px 0 gray;
 }
 
 #searchButton {
