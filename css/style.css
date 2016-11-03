@@ -31,21 +31,21 @@ body {
   border-radius: 5px;
   text-align: center;
   height: 3em;
-  box-shadow: 1px 1px 1px 1px gray;
+  box-shadow: 1px 1px 1px 0 gray;
 }
 
 #searchButton {
   margin: 10px;
   border: 1px solid black;
   color: white;
-  box-shadow: 1px 1px 1px 1px gray;
+  box-shadow: 1px 1px 1px 0 gray;
 }
 
 .random {
   border: 1px solid black;
   margin: 10px;
   color: white;
-  box-shadow: 1px 1px 1px 1px gray;
+  box-shadow: 1px 1px 1px 0 gray;
 }
 
 #wikiContent {
