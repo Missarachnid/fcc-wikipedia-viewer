@@ -25,6 +25,10 @@ body {
   padding: 10px;
 }
 
+input:active, input:focus {
+  outline: none;
+}
+
 #searchBox {
   border: 1px solid black;
   background-color: white;
