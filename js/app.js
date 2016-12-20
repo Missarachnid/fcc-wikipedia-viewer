@@ -52,6 +52,7 @@ $("#searchButton").click(function(event) {
         $wikiList += ("</p></li>");
         //add all information entries to ul
         $("#wikiLink").attr("href", titleUrl);
+        console.log(titleUrl);
         $("#wikiContent").append($wikiList).css({"background-color": "white", "padding": "10px 20px", "border": " 1px solid gray"});
        
       }
