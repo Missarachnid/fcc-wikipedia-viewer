@@ -61,9 +61,7 @@ $(document).ready(function(){
     }
 
   });
-<<<<<<< HEAD
-=======
+
 });
->>>>>>> origin/gh-pages
-});
+
 });
