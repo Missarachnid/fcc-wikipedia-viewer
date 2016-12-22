@@ -46,9 +46,10 @@ $(document).ready(function(){
           var wikiTitle = data.query.search[i].title;
           var heading = ("<h4><strong>" + wikiTitle + "</strong></h4>");
           wikiTitle = wikiTitle.replace(/ /g, "_");
-          var wikipedia = "https://wikipedia.org/wiki/";
+          var wikipedia = "https://en.wikipedia.org/wiki/";
           var titleUrl = wikipedia + wikiTitle;
-          var $wikiList = ("<li><a id='wikiLink' target='_blank' href='" + titleUrl + "'>");               
+          var $wikiList = ("<li><a id='wikiLink' target='_blank' href='" + titleUrl + "'>");          
+          console.log(titleUrl);
           $wikiList += heading;
           $wikiList += ("</a><p>");
           $wikiList += wikiInfo;
