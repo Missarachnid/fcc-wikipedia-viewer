@@ -88,7 +88,7 @@ input:active, input:focus, .btn:active, .btn:focus, .btn:active:focus, .btn.acti
   display: inline-block;
 }
 
-.links:active, .links:focus {
+.links:active, .links:focus, .links:hover {
   color: white;
   text-decoration: none;
 }
