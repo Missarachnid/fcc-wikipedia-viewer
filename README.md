@@ -1,7 +1,7 @@
-#Wikipedia Viewer
+#  Wikipedia Viewer
   This is my entry for Free Code Camp Wikipedia Viewer  
 
-###Built With
+###  Built With
 +  HTML  
 +  CSS  
 +  Javascript  
@@ -9,14 +9,14 @@
 +  Wikipedia API  
 +  Bootstrap  
 
-###Author
+###  Author
 +  Melissa Kepler a.k.a Missarachnid  
 
-###Acknowledgments
+###  Acknowledgments
 +  Free Code Camp
 +  Wikipedia
 
-###Project can be seen here: https://missarachnid.github.io/fcc-wikipedia-viewer/
+###  Project can be seen [here](https://missarachnid.github.io/fcc-wikipedia-viewer/)
 
   
   
